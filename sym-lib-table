@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name uart_usb)(type Legacy)(uri /Users/alexm/dev/usb_uart/uart_usb.lib)(options "")(descr ""))
+  (lib (name usb_uart)(type Legacy)(uri /Users/alexm/dev/usb_uart/usb_uart.lib)(options "")(descr ""))
+)
